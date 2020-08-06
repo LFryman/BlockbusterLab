@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HWxym0RVtj3t9DdQYxzLBUCyeBXa6fTIRvf7AOkGVRarwj5rSDvRo9huysjVyCJoo1I/x195P6HjSDJFA7E31Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zach\\source\\repos\\BlockbusterLab\\BlockbusterLab\\BlockbusterLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zach\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
